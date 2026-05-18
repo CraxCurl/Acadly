@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929878834559",
+    "project_id": "acadly-57e62",
+    "storage_bucket": "acadly-57e62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929878834559:android:a8a00d32fc80e33c47ee4a",
+        "android_client_info": {
+          "package_name": "com.acadly.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929878834559-uof91q0c5p8o73250omf2e1l6016l179.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCOnp2g9khPkOrMIN0LOTyi1uUxW1mhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929878834559-uof91q0c5p8o73250omf2e1l6016l179.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
